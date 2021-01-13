@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_nilai" value="name:NISN;datatype:int,name:Kode_guru;datatype:int,name:Kode_sk;datatype:int,name:Nilai_angka;datatype:string,name:Nilai_huruf;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:NISN;datatype:int,name:Kode_guru;datatype:int,name:Kode_sk;datatype:int,name:Nilai_angka;datatype:string,name:Nilai_huruf;datatype:string" />
+</info>

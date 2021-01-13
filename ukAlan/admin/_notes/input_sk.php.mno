@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_keahlian" value="name:Kode_kk;datatype:string,name:Kode_mata_diklat;datatype:string,name:Nama_kompetensi_keahlian;datatype:string" />
+	<infoitem key="UD_sk" value="name:Kode_sk;datatype:string,name:Kode_kk;datatype:string,name:Nama_sk;datatype:string,name:Kelas_sk;datatype:string" />
+</info>

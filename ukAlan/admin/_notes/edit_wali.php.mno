@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_wali_murid" value="name:Kode_wali;datatype:string,name:NISN;datatype:string,name:Nama_ayah;datatype:string,name:Pekerjaan_ayah;datatype:string,name:Nama_ibu;datatype:string,name:Pekerjaan_ibu;datatype:string,name:Alamat_wali;datatype:string,name:Telp_wali;datatype:string" />
+</info>

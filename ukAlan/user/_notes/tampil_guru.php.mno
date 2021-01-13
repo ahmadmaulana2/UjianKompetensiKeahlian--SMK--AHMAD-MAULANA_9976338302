@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_guru" value="name:Kode_guru;datatype:string,name:Kode_kk;datatype:string,name:Nama_guru;datatype:string,name:NIP;datatype:string,name:Alamat_guru;datatype:string,name:Telp_guru;datatype:string" />
+</info>
